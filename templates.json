@@ -1,0 +1,8 @@
+{
+    "tpl": {
+        "base": {
+            "url": "https://github.com/huangpeng0428/myProject.git",
+            "branch": "master"
+        }
+    }
+}
